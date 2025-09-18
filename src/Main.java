@@ -8,6 +8,6 @@ public class Main {
     }
 
     private static String greeting() {
-        return "Hello";
+        return "Szia";
     }
 }
