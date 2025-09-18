@@ -1,3 +1,5 @@
+//Hazi Feladat 01-hét:
+
 public class Main {
     public static void main(String[] args) {
         System.out.println(greeting()+" "+subject());
