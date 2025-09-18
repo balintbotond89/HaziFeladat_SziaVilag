@@ -4,7 +4,7 @@ public class Main {
     }
 
     private static String subject() {
-        return "World";
+        return "világ";
     }
 
     private static String greeting() {
